@@ -19,7 +19,6 @@ c.execute(TEST_INSERT)
 conn.commit
 c.execute(TEST_SELECT)
 result = c.fetchone()
-c.execute(TEST_SELECT)
 
 print(result)
 
