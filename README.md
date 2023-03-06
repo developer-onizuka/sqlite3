@@ -3,6 +3,8 @@
 ```
 $ git clone https://github.com/developer-onizuka/sqlite3
 
+$ cd sqlite3/
+
 $ python3 createDB.py 
 (1, 'Yukichi', 'Fukuzawa')
 
